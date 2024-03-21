@@ -1,2 +1,6 @@
 /venv
 .env
+escola/__pycache__/
+escola/migrations/
+setup/__pycache__/
+db.sqlite3
